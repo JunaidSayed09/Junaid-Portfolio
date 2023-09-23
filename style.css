@@ -340,7 +340,7 @@ header.sticky{
 
 }
 .contact-form p{
-    color: var(--secound-bg-color);
+    color:#fff;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: var(--p-font);
