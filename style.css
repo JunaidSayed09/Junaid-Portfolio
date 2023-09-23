@@ -325,7 +325,7 @@ header.sticky{
     grid-template-columns: repeat(2,2fr);
     align-items: center;
     grid-gap: 3rem;
-    background-color: #802b00;
+    background-color: #000;
 
 }
 .contact-img img{
