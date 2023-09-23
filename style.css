@@ -227,7 +227,7 @@ header.sticky{
 }
 
 .center p{
-    color:var(--secound-bg-color) ;
+    color:#fff ;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: var(--p-rem);
