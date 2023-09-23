@@ -114,7 +114,7 @@ section{
     font-size: var(--big-font);
 }
 span{
-    color: var(--main-color);
+    color: #fff;
 }
 .home-text h3{
     font-size: 25px;
