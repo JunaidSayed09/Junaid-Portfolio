@@ -13,8 +13,10 @@
     --bg-color: #101010;
     --secound-bg-color: #191919;
     --text-color:#fff;
-    --secound-bg-color: #c6c9d8bf;
-    --main-color: #f9004d;
+/*     --secound-bg-color: #c6c9d8bf;
+    --main-color: #f9004d; */
+    --secound-bg-color: #00bff9;
+    --main-color: #00bff9;
     --big-font: 5.3rem;
     --h2-font: 4.2rem;
     --p-rem: 1.1rem;
