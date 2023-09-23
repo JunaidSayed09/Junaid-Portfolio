@@ -15,8 +15,8 @@
     --text-color:#fff;
 /*     --secound-bg-color: #c6c9d8bf;
     --main-color: #f9004d; */
-    --secound-bg-color: #00bff9;
-    --main-color: #00bff9;
+    --secound-bg-color: #058ab3;
+    --main-color: #058ab3;
     --big-font: 5.3rem;
     --h2-font: 4.2rem;
     --p-rem: 1.1rem;
@@ -322,7 +322,7 @@ header.sticky{
     grid-template-columns: repeat(2,2fr);
     align-items: center;
     grid-gap: 3rem;
-    background-color: #f9004d;
+    background-color: #058ab3;
 
 }
 .contact-img img{
